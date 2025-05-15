@@ -102,7 +102,7 @@ By contributing to this project, you agree that your contributions will be licen
 - LKZ_Owner (Main Developer)
 - Claude (AI Assistant)
 
-Note#
+## Note
 
 If you are making soflware with this open source pls credit us.
 
