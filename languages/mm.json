@@ -1,0 +1,48 @@
+{
+    "app_name": "MI Unlock Tool",
+    "menu": {
+        "file": "ဖိုင်များ",
+        "edit": "ပြင်ဆင်ရန်",
+        "view": "ကြည့်ရန်",
+        "help": "အကူအညီ"
+    },
+    "main_window": {
+        "title": "MI Unlock Tool",
+        "connect_device": "စက်ပစ္စည်းချိတ်ဆက်ရန်",
+        "device_info": "စက်ပစ္စည thông tin",
+        "unlock_device": "စက်ပစ္စည်းဖွင့်ရန်",
+        "flash_rom": "ROM ထည့်သွင်းရန်",
+        "backup": "သိမ်းဆည်းရန်",
+        "settings": "ဆက်တင်များ"
+    },
+    "device_info": {
+        "model": "မော်ဒယ်",
+        "android_version": "Android ဗားရှင်း",
+        "bootloader_status": "Bootloader အခြေအနေ",
+        "unlock_status": "ဖွင့်ထားသောအခြေအနေ",
+        "serial_number": "အမှတ်စဉ်"
+    },
+    "unlock": {
+        "start": "ဖွင့်ရန်စတင်ပါ",
+        "check_status": "အခြေအနေစစ်ဆေးပါ",
+        "unlock_progress": "ဖွင့်နေဆဲအခြေအနေ",
+        "unlock_complete": "ဖွင့်ပြီးပါပြီ",
+        "unlock_failed": "ဖွင့်ရန်မအောင်မြင်ပါ"
+    },
+    "settings": {
+        "language": "ဘာသာစကား",
+        "theme": "အပြင်အဆင်",
+        "dark_mode": "အမှောင်မုဒ်",
+        "auto_update": "အလိုအလျောက်အပ်ဒိတ်",
+        "save": "သိမ်းဆည်းပါ",
+        "cancel": "ပယ်ဖျက်ပါ"
+    },
+    "messages": {
+        "device_connected": "စက်ပစ္စည်းချိတ်ဆက်ပြီးပါပြီ",
+        "device_disconnected": "စက်ပစ္စည်းချိတ်ဆက်မှုပြတ်တောက်သွားပါပြီ",
+        "unlock_success": "စက်ပစ္စည်းဖွင့်ပြီးပါပြီ",
+        "unlock_error": "ဖွင့်ရန်အမှားရှိနေပါသည်",
+        "backup_complete": "သိမ်းဆည်းပြီးပါပြီ",
+        "backup_error": "သိမ်းဆည်းရန်မအောင်မြင်ပါ"
+    }
+} 

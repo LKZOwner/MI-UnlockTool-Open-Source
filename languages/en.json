@@ -1,0 +1,48 @@
+{
+    "app_name": "MI Unlock Tool",
+    "menu": {
+        "file": "File",
+        "edit": "Edit",
+        "view": "View",
+        "help": "Help"
+    },
+    "main_window": {
+        "title": "MI Unlock Tool",
+        "connect_device": "Connect Device",
+        "device_info": "Device Information",
+        "unlock_device": "Unlock Device",
+        "flash_rom": "Flash ROM",
+        "backup": "Backup",
+        "settings": "Settings"
+    },
+    "device_info": {
+        "model": "Model",
+        "android_version": "Android Version",
+        "bootloader_status": "Bootloader Status",
+        "unlock_status": "Unlock Status",
+        "serial_number": "Serial Number"
+    },
+    "unlock": {
+        "start": "Start Unlock",
+        "check_status": "Check Status",
+        "unlock_progress": "Unlock Progress",
+        "unlock_complete": "Unlock Complete",
+        "unlock_failed": "Unlock Failed"
+    },
+    "settings": {
+        "language": "Language",
+        "theme": "Theme",
+        "dark_mode": "Dark Mode",
+        "auto_update": "Auto Update",
+        "save": "Save",
+        "cancel": "Cancel"
+    },
+    "messages": {
+        "device_connected": "Device Connected",
+        "device_disconnected": "Device Disconnected",
+        "unlock_success": "Device Unlocked Successfully",
+        "unlock_error": "Error During Unlock",
+        "backup_complete": "Backup Complete",
+        "backup_error": "Backup Failed"
+    }
+} 

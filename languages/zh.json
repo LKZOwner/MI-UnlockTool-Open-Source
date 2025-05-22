@@ -1,0 +1,48 @@
+{
+    "app_name": "MI Unlock Tool",
+    "menu": {
+        "file": "文件",
+        "edit": "编辑",
+        "view": "视图",
+        "help": "帮助"
+    },
+    "main_window": {
+        "title": "MI Unlock Tool",
+        "connect_device": "连接设备",
+        "device_info": "设备信息",
+        "unlock_device": "解锁设备",
+        "flash_rom": "刷入ROM",
+        "backup": "备份",
+        "settings": "设置"
+    },
+    "device_info": {
+        "model": "型号",
+        "android_version": "Android版本",
+        "bootloader_status": "引导程序状态",
+        "unlock_status": "解锁状态",
+        "serial_number": "序列号"
+    },
+    "unlock": {
+        "start": "开始解锁",
+        "check_status": "检查状态",
+        "unlock_progress": "解锁进度",
+        "unlock_complete": "解锁完成",
+        "unlock_failed": "解锁失败"
+    },
+    "settings": {
+        "language": "语言",
+        "theme": "主题",
+        "dark_mode": "深色模式",
+        "auto_update": "自动更新",
+        "save": "保存",
+        "cancel": "取消"
+    },
+    "messages": {
+        "device_connected": "设备已连接",
+        "device_disconnected": "设备已断开",
+        "unlock_success": "设备解锁成功",
+        "unlock_error": "解锁过程中出错",
+        "backup_complete": "备份完成",
+        "backup_error": "备份失败"
+    }
+} 

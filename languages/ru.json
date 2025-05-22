@@ -1,0 +1,48 @@
+{
+    "app_name": "MI Unlock Tool",
+    "menu": {
+        "file": "Файл",
+        "edit": "Правка",
+        "view": "Вид",
+        "help": "Помощь"
+    },
+    "main_window": {
+        "title": "MI Unlock Tool",
+        "connect_device": "Подключить устройство",
+        "device_info": "Информация об устройстве",
+        "unlock_device": "Разблокировать устройство",
+        "flash_rom": "Прошить ROM",
+        "backup": "Резервное копирование",
+        "settings": "Настройки"
+    },
+    "device_info": {
+        "model": "Модель",
+        "android_version": "Версия Android",
+        "bootloader_status": "Статус загрузчика",
+        "unlock_status": "Статус разблокировки",
+        "serial_number": "Серийный номер"
+    },
+    "unlock": {
+        "start": "Начать разблокировку",
+        "check_status": "Проверить статус",
+        "unlock_progress": "Прогресс разблокировки",
+        "unlock_complete": "Разблокировка завершена",
+        "unlock_failed": "Ошибка разблокировки"
+    },
+    "settings": {
+        "language": "Язык",
+        "theme": "Тема",
+        "dark_mode": "Тёмный режим",
+        "auto_update": "Автообновление",
+        "save": "Сохранить",
+        "cancel": "Отмена"
+    },
+    "messages": {
+        "device_connected": "Устройство подключено",
+        "device_disconnected": "Устройство отключено",
+        "unlock_success": "Устройство успешно разблокировано",
+        "unlock_error": "Ошибка при разблокировке",
+        "backup_complete": "Резервное копирование завершено",
+        "backup_error": "Ошибка резервного копирования"
+    }
+} 

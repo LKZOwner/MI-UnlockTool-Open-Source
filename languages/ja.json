@@ -1,0 +1,48 @@
+{
+    "app_name": "MI Unlock Tool",
+    "menu": {
+        "file": "ファイル",
+        "edit": "編集",
+        "view": "表示",
+        "help": "ヘルプ"
+    },
+    "main_window": {
+        "title": "MI Unlock Tool",
+        "connect_device": "デバイスを接続",
+        "device_info": "デバイス情報",
+        "unlock_device": "デバイスをアンロック",
+        "flash_rom": "ROMを書き込み",
+        "backup": "バックアップ",
+        "settings": "設定"
+    },
+    "device_info": {
+        "model": "モデル",
+        "android_version": "Androidバージョン",
+        "bootloader_status": "ブートローダー状態",
+        "unlock_status": "アンロック状態",
+        "serial_number": "シリアル番号"
+    },
+    "unlock": {
+        "start": "アンロック開始",
+        "check_status": "状態確認",
+        "unlock_progress": "アンロック進捗",
+        "unlock_complete": "アンロック完了",
+        "unlock_failed": "アンロック失敗"
+    },
+    "settings": {
+        "language": "言語",
+        "theme": "テーマ",
+        "dark_mode": "ダークモード",
+        "auto_update": "自動更新",
+        "save": "保存",
+        "cancel": "キャンセル"
+    },
+    "messages": {
+        "device_connected": "デバイスが接続されました",
+        "device_disconnected": "デバイスが切断されました",
+        "unlock_success": "デバイスのアンロックに成功しました",
+        "unlock_error": "アンロック中にエラーが発生しました",
+        "backup_complete": "バックアップが完了しました",
+        "backup_error": "バックアップに失敗しました"
+    }
+} 
