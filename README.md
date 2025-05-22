@@ -2,7 +2,23 @@
 
 A comprehensive tool for managing and unlocking Xiaomi devices, built with Python and PyQt5.
 
-![MI Unlock Tool](screenshots/main.png)
+## Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main.png)
+*Main window showing device connection and status*
+
+### Device Information
+![Device Info](screenshots/device_info.png)
+*Detailed device information display*
+
+### Settings
+![Settings](screenshots/settings.png)
+*Application settings and configuration*
+
+### Unlock Process
+![Unlock Process](screenshots/unlock.png)
+*Bootloader unlocking interface*
 
 ## Features
 
@@ -124,12 +140,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Custom ROM support
 - [ ] Device-specific optimizations
 - [ ] Cloud backup integration
-
-## Screenshots
-
-![Main Interface](screenshots/main.png)
-![Device Info](screenshots/device_info.png)
-![Settings](screenshots/settings.png)
 
 ## Changelog
 
