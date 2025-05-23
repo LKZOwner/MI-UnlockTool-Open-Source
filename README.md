@@ -135,7 +135,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Roadmap
 
-- [ ] Multi-language support
+- [ ] Multi-language support (Working Now)
 - [ ] Advanced backup features
 - [ ] Custom ROM support
 - [ ] Device-specific optimizations
